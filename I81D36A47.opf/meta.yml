@@ -1,0 +1,34 @@
+id: I81D36A47
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:35:17.543790'
+last_modified: '2022-06-11T13:35:17.543795'
+parser: null
+source_metadata:
+  title: Garab Dorje
+  language: zh
+  description: 'Texts attributed to Garab Dorje (dga'' rab rdo rje; Prahevajra/Pramodavajra/Surativajra):'
+  volume:
+    f87F8:
+      title: The Three Statements that Strike the Vital Point
+      base_file: f87F8.txt
+      order: 1
+      parent: Dzogchen
+    fACBB:
+      title: 'A Shower of Wisdom: A Guru Yoga of Garab Dorje'
+      base_file: fACBB.txt
+      order: 2
+      parent: Guru Yoga
+    fAA1D:
+      title: Guru Sādhana of Garab Dorje
+      base_file: fAA1D.txt
+      order: 3
+      parent: Guru Yoga
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
